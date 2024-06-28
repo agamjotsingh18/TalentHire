@@ -1,6 +1,9 @@
 
 # TalentHire
 
+![TalentHire Screenshot](./TalentHire-SS.png)
+
+
 TalentHire is a modern web application designed to streamline the recruitment process for companies and job seekers. This platform offers a comprehensive set of features to manage job postings, track applicants, and communicate efficiently.
 
 ## Table of Contents
