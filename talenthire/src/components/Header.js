@@ -26,7 +26,7 @@ const Header = () => {
     <header className="header">
       <div className="top-header">
         <div className="logo">
-          <img src={logo} alt="Company Logo" className="logo-img" />
+          Logo
         </div>
         <div className="nav-toggle" onClick={handleMenuToggle}>
           <span className="nav-toggle-icon"></span>
