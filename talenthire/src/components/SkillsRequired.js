@@ -12,7 +12,7 @@ const SkillsRequired = () => {
         <div className="skills-column">
           <h3>Skills Required</h3>
           <ul className="skills-list">
-            <li><img src={figma}  alt="Figma" /> Figma</li>
+            <li><img src={figma} alt="Figma" /> Figma</li>
             <li><img src={illustrator} alt="Adobe Illustrator" /> Adobe Illustrator</li>
             <li><img src={xd} alt="Adobe XD" /> Adobe XD</li>
           </ul>
