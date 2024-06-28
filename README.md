@@ -1,6 +1,7 @@
 
 # TalentHire
 
+![Task Screenshot](./Task-SS.png)
 ![TalentHire Screenshot](./TalentHire-SS.png)
 
 
