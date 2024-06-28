@@ -1,0 +1,32 @@
+/* src/components/JobPreview.css */
+
+.job-preview {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .job-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .side-content {
+    margin: 0;
+  }
+  
+  /* Media query for mobile view */
+  @media (max-width: 768px) {
+    .job-content {
+      flex-direction: column; /* Stack the content vertically */
+    }
+  
+    .main-content {
+      padding-right: 0; /* Remove right padding in mobile view */
+    }
+  }
+  

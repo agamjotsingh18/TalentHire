@@ -1,0 +1,56 @@
+/* src/components/Benefits.css */
+.benefits {
+  background-color: #ffffff;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  color: #333;
+  margin-left: 27px;
+  text-align: left; /* Align text to the left */
+}
+
+.benefits h3 {
+  font-size: 16px;
+  margin-bottom: 12px;
+  font-weight: bold;
+  display: flex;
+  color: #acacac;
+  margin-left: 10px;
+  text-align: left; /* Align text to the left */
+}
+
+.benefits h4 {
+  font-size: 14px;
+  margin-bottom: 4px;
+  margin-top: 16px;
+  font-weight: normal;
+  display: flex;
+  text-align: left; /* Align text to the left */
+}
+
+.benefits ol {
+  list-style-type: decimal;
+  padding-left: 20px;
+  margin-bottom: 16px;
+  text-align: left; /* Align text to the left */
+}
+
+.benefits ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 0;
+  margin-bottom: 16px;
+  text-align: left; /* Align text to the left */
+}
+
+.benefits li, .benefits p {
+  font-size: 14px;
+  margin-bottom: 4px;
+  text-align: left; /* Align text to the left */
+}
+
+.benefits p {
+  margin-left: 20px;
+  margin-top: 0;
+  text-align: left; /* Align text to the left */
+}

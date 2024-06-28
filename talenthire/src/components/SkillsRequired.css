@@ -1,0 +1,55 @@
+/* src/components/SkillsRequired.css */
+.skills-required {
+    background-color: #ffffff;
+    padding: 16px 20px;
+    border-bottom: 1px solid #e0e0e0;
+    font-family: Arial, sans-serif;
+}
+
+.skills-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills-column {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.skills-column h3 {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 8px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.skills-column p {
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+    font-weight: bolder;
+}
+
+.skills-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.skills-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px;
+    margin-left: 30px;
+    font-size: 14px;
+    color: #333;
+    padding: 2px 0;
+    margin-right: 0;
+}
+
+.skills-list img {
+    width: 14px;
+    height: 14px;
+    margin-right: 6px;
+}
